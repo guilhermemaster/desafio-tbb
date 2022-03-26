@@ -47,7 +47,7 @@ a{
 
 .main-connnection{
     width: 500px;
-    margin-left: 28%; 
+    margin-left: 30%; 
     font-size: 20px;
 }
 .main-connnection >p{
@@ -60,7 +60,7 @@ a{
     height: 500px;
     background-position: right center;
     background-repeat: no-repeat;
-    margin-right: 0%; 
+    margin-right: 20%;
    
 }
 
